@@ -1,9 +1,0 @@
----
-layout: page
-title: "Projects Showcase"
-permalink: /showcase/
----
-### This is my project showcase!
-### I have included some comissioned as well as personal projects here
-# MacOS Application development for SmylaHair
-# Reciepts Conversion Solution for Barr Nunn Transportation
